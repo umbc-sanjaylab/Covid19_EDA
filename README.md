@@ -3,6 +3,10 @@
 
 Jupyter Notebooks for the paper, <i>Ordun, Catherine, Sanjay Purushotham, and Edward Raff. "Exploratory analysis of covid-19 tweets using topic modeling, umap, and digraphs." arXiv preprint arXiv:2005.03082 (2020)</i>
 
+https://arxiv.org/abs/2005.03082
+
+
+
 <h2>Overview</h2>
 Exploratory Analysis includes a variety of notebooks, some of which are unpolished and "scratch", meaning cells show raw work and unpolished code written for exploration. Recommend running each cell one at a time, for careful analysis.
 
