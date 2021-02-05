@@ -24,6 +24,8 @@ To pull data from Twitter, you will need to first use: `twitter_query/stream-que
 
     $python stream-query1.py
 
+No Twitter data is provided here in this repo due to privacy and identifier information. However, you may use the Twitter API with the provided scripts to pull your own queries.
+
 In my experience, I would run this overnight for 12 or more hours.
 
 <h2>Relevant Notebooks include:</h2>
