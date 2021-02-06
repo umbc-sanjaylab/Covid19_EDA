@@ -3,6 +3,10 @@
 
 Jupyter Notebooks for the paper, <i>Ordun, Catherine, Sanjay Purushotham, and Edward Raff. "Exploratory analysis of covid-19 tweets using topic modeling, umap, and digraphs." arXiv preprint arXiv:2005.03082 (2020)</i>
 
+https://arxiv.org/abs/2005.03082
+
+
+
 <h2>Overview</h2>
 Exploratory Analysis includes a variety of notebooks, some of which are unpolished and "scratch", meaning cells show raw work and unpolished code written for exploration. Recommend running each cell one at a time, for careful analysis.
 
@@ -19,6 +23,8 @@ Recommended directory structure:
 To pull data from Twitter, you will need to first use: `twitter_query/stream-query1.py`. You need to go to Twitter and sign up for a personal (free) developer account and add your credentials to the script. For your own research purposes, you may want to customize the track terms, different from the terms used in our paper. Then simply run:
 
     $python stream-query1.py
+
+No Twitter data is provided here in this repo due to privacy and identifier information. However, you may use the Twitter API with the provided scripts to pull your own queries.
 
 In my experience, I would run this overnight for 12 or more hours.
 
